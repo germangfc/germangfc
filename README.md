@@ -4,7 +4,7 @@ Soy Estudiante de Primer Curso del Ciclo Formativo de Grado Superior correspondi
 Hace tiempo inicié mis estudios en Informática y tengo algo de experiencia en programación y bases de datos, pero por circunstancias tuve que abandonarlo. 
 Es hora de cambiar y reencontrarme y he decidido reencaminar mi carrera profesional al mundo de la Informática.
 
-<!--![ordenador|200x200](https://cdn.pixabay.com/photo/2016/05/13/13/33/desktop-1389979_1280.png)-->
+<img src="https://cdn.pixabay.com/photo/2016/05/13/13/33/desktop-1389979_1280.png" width=200>
 
 ### 📫Contacto
 
