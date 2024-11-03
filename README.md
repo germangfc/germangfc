@@ -12,7 +12,6 @@ Es hora de cambiar y reencontrarme y he decidido reencaminar mi carrera profesio
    Si quieres **contactar conmigo**, puedes hacerlo a través de GitHub <a href="https://github.com/germangfc" target="_blank"><img src="https://distreau.com/github.svg" height="30"></a>
       o de mi email: &nbsp; <a href="mailto:german.fernandez@alumno.iesluisvives.org" target="_blank">
       <img src="icons8-email-48.png">
-      </a> &nbsp;&nbsp;
       
 <img src="octocat-1696792701991.png" alt="Octogato" width=200>
 
