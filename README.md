@@ -1,5 +1,5 @@
 # 👋 Hola!, soy Germán Fernández Carracedo 
-Soy Estudiante de Primer Curso del Ciclo Formativo de Grado Superior correspondiente al título de Técnico Superior en Desarrollo de Aplicaciones WEB.
+Soy Estudiante de Segundo Curso del Ciclo Formativo de Grado Superior correspondiente al título de Técnico Superior en Desarrollo de Aplicaciones WEB.
 
 <img src="https://cdn.pixabay.com/photo/2016/05/13/13/33/desktop-1389979_1280.png" alt="ordenador" width=200>
 
