@@ -14,6 +14,15 @@ Me encanta seguir aprendiendo, asumir nuevos retos y formar parte de proyectos d
 
 ---
 
+### 📫 Contacto
+
+Si quieres saber más sobre mí, puedes encontrarme en:
+
+- <a href="https://www.linkedin.com/in/germ%C3%A1n-fern%C3%A1ndez-carracedo-951a96159/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+- <a href="mailto:german.carracedo@gmail.com" target="_blank" rel="noopener noreferrer">Correo electrónico</a>
+
+---
+
 ### 🚀 Tecnologías que uso o con las que he trabajado
 
 #### 🖥️ Lenguajes y frameworks
@@ -57,14 +66,6 @@ Me encanta seguir aprendiendo, asumir nuevos retos y formar parte de proyectos d
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)](https://www.gitkraken.com/)
 
----
-
-### 📫 Contacto
-
-Si quieres saber más sobre mí, puedes encontrarme en:
-
-- <a href="https://www.linkedin.com/in/germ%C3%A1n-fern%C3%A1ndez-carracedo-951a96159/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-- <a href="mailto:german.carracedo@gmail.com" target="_blank" rel="noopener noreferrer">Correo electrónico</a>
 
 
 
