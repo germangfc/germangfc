@@ -77,8 +77,8 @@ Tras finalizar mis estudios de **Grado Superior en Desarrollo de Aplicaciones We
 
 Si quieres saber más sobre mí o colaborar en algún proyecto, puedes encontrarme en:
 
-- [LinkedIn](https://www.linkedin.com/in/tu-perfil)
-- [Correo electrónico](mailto:tu-email@dominio.com)
+- [LinkedIn](https://www.linkedin.com/in/germ%C3%A1n-fern%C3%A1ndez-carracedo-951a96159)
+- [Correo electrónico](mailto:german.carracedo@gmail.com)
 
 
 
