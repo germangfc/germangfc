@@ -13,13 +13,14 @@ Tras finalizar mis estudios de **Grado Superior en Desarrollo de Aplicaciones We
 
 </div>
 
-<div style="text-align: center; min-width: 200px;">
-
-<img src="octocat-1696792701991.png" width="200px" alt="Mi Octogato" />
+  <div style="text-align: center; min-width: 200px;">
+  
+  <img src="octocat-1696792701991.png" width="200px" alt="Mi Octogato" />
+  
+  </div>
 
 </div>
 
-</div>
 ---
 
 ### 🚀 Tecnologías que uso o con las que he trabajado
