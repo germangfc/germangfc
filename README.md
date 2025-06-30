@@ -37,7 +37,6 @@ Tras finalizar mis estudios de **Grado Superior en Desarrollo de Aplicaciones We
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sqlite&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
-<img src="octocat-1696792701991.png" width="250px" alt="Mi Octogato" />
 
 #### 🧪 Testing
 
