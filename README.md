@@ -43,6 +43,7 @@ Tras finalizar mis estudios de **Grado Superior en Desarrollo de Aplicaciones We
 [![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)](https://junit.org/)
 [![Mockito](https://img.shields.io/badge/Mockito-ACD13A?style=for-the-badge&logo=java&logoColor=white)](https://site.mockito.org/)
 [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)
+<img src="octocat-1696792701991.png" width="250px" alt="Mi Octogato" />
 
 #### 🐳 DevOps y herramientas
 
