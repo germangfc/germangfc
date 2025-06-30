@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<table>
+<table border="0">
 <tr>
 <td width="65%">
 
