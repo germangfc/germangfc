@@ -18,44 +18,25 @@ Me encanta seguir aprendiendo, asumir nuevos retos y formar parte de proyectos d
 
 #### 🖥️ Lenguajes y frameworks
 
-<a href="https://kotlinlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
-<a href="https://spring.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
+[Kotlin](https://kotlinlang.org/) • [Java](https://www.oracle.com/java/) • [Spring](https://spring.io/) • [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)  
+[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) • [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) • [Bootstrap](https://getbootstrap.com/) • [Tailwind CSS](https://tailwindcss.com/)  
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) • [Laravel](https://laravel.com/) • [PHP](https://www.php.net/)
 
 #### 🗃️ Bases de datos
 
-<a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-<a href="https://www.sqlite.org/index.html" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
-<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
+[MySQL](https://www.mysql.com/) • [PostgreSQL](https://www.postgresql.org/) • [SQLite](https://www.sqlite.org/index.html) • [MongoDB](https://www.mongodb.com/) • [SQL](https://en.wikipedia.org/wiki/SQL)
 
 #### 🧪 Testing
 
-<a href="https://junit.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white" /></a>
-<a href="https://site.mockito.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Mockito-ACD13A?style=for-the-badge&logo=java&logoColor=white" /></a>
-<a href="https://www.cypress.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" /></a>
+[JUnit](https://junit.org/) • [Mockito](https://site.mockito.org/) • [Cypress](https://www.cypress.io/)
 
 #### 🐳 DevOps y herramientas
 
-<a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-<a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
+[Docker](https://www.docker.com/) • [Postman](https://www.postman.com/)
 
 #### 🧰 Control de versiones
 
-<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-<a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.gitkraken.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white" /></a>
+[Git](https://git-scm.com/) • [GitHub](https://github.com/) • [GitKraken](https://www.gitkraken.com/)
 
 ---
 
