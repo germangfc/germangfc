@@ -1,23 +1,14 @@
 # ¡Hola! 👋
 
-<table style="border: none;">
-<tr>
-<td style="border: none; vertical-align: top; width: 70%;">
-
 ### Sobre mí 👩‍💻
 
 Profesional con amplia experiencia laboral tanto en el sector público como en el privado, en entornos de trabajo individual proactivo, en equipos, y en funciones de coordinación.  
 <br>
 Tras finalizar mis estudios de **Grado Superior en Desarrollo de Aplicaciones Web**, busco aplicar mis conocimientos y experiencia en el ámbito del desarrollo software, sector en el que inicié mi carrera profesional, y que deseo retomar con gran ilusión y motivación.
 
-</td>
-<td style="border: none; text-align: center; width: 30%;">
-
-<img src="octocat-1696792701991.png" width="200px" alt="Mi Octogato" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="octocat-1696792701991.png" width="250px" alt="Mi Octogato" />
+</p>
 
 ---
 
