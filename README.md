@@ -12,7 +12,7 @@ Tras finalizar mis estudios de **Grado Superior en Desarrollo de Aplicaciones We
 
 <div align="right">
 
-<img src="RUTA_A_TU_OCTOGATO.png" width="200px" alt="Mi Octogato" />
+<img src="octocat-1696792701991.png" width="200px" alt="Mi Octogato" />
 
 </div>
 
