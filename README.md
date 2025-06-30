@@ -4,7 +4,7 @@
 
 Hola, soy un profesional con experiencia tanto en el sector público como en el privado, acostumbrado a trabajar de forma autónoma, en equipo y también coordinando personas y proyectos.  
 <br>
-Después de terminar el Grado Superior en **Desarrollo de Aplicaciones Web** en el [!IES Luis Vives](https://www.iesluisvives.es/), de Leganés, he decidido volver al mundo del desarrollo de software, un campo en el que empecé mi carrera profesional y que me sigue apasionando.  
+Después de terminar el Grado Superior en **Desarrollo de Aplicaciones Web** en el [IES Luis Vives](https://www.iesluisvives.es/), de Leganés, he decidido volver al mundo del desarrollo de software, un campo en el que empecé mi carrera profesional y que me sigue apasionando.  
 <br>
 Me encanta seguir aprendiendo, asumir nuevos retos y formar parte de proyectos donde pueda aportar y seguir creciendo.
 
